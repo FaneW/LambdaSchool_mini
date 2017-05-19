@@ -1,0 +1,54 @@
+/* styling for the third layout */
+
+.heading {
+    height: 150px;
+    width: 100%;
+    background: purple;
+}
+
+.container {
+    background: red;
+    height: 1500px;
+    width: 75%;
+    position:absolute;
+    left: 15%;
+}
+
+.news-feed {
+   background-color: blue;
+   box-sizing: border-box;
+   position: absolute;
+   top: 250px;
+   left: 25%;
+   width: 50%;
+   height: 300px;
+   display: inline-block;
+}
+
+.article-img {
+  background-color: yellow;
+  box-sizing: border-box;
+  position: absolute;
+  left: 10%;
+  top: 50px;
+  width: 25%;
+  height: 155px;
+}
+
+.article-content {
+  background-color: green;
+  box-sizing: border-box;
+  position: absolute;
+  left: 40%;
+  top: 50px;
+  width: 50%;
+  height: 200px;
+}
+
+#second {
+    top: 600px;
+}
+
+#third {
+    top: 950px;
+}

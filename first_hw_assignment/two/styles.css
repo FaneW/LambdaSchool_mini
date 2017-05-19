@@ -1,0 +1,45 @@
+/* styling for the second image assignment */
+body {
+    background-color: black;
+    margin: 0 auto;
+    height: 100vh;
+}
+
+.heading {
+    background-color: red;
+    width: 100%;
+    height: 150px;
+    margin: auto;
+}
+
+.first {
+    background-color: blue;
+    height: 720px;
+    width: 33.3%;
+    margin: auto;
+    float: left
+}
+
+.second {
+    background-color: purple;
+    height: 720px;
+    width: 33.3%;
+    margin: auto;
+    float: left;
+}
+
+.third {
+    background-color: yellow;
+    height: 720px;
+    width: 33.3%;
+    margin: auto;
+    float: left;
+}
+
+.footer {
+    background-color: green;
+    width: 100%;
+    height: 150px;
+    margin: auto;
+    clear: both;
+}
